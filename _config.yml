@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Devarsh Ruparelia
-tagline:             ' STEM|Economics|Geopolitics'
+tagline:             'Blogs on STEM|Economics|Geopolitics'
 description:         'Welcome to my blog.I Ask/Answer a lot on Quora.'
 url:                 http://devarsh1997.github.io
 baseurl:             /
