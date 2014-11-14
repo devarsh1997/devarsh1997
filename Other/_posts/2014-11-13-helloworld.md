@@ -1,6 +1,10 @@
-# Hello World
 
-This is my first test post on this blog.
+---
+layout: post
+title: Hello World
+---
+
+This is my first post(test) on this blog.
 
 
 
