@@ -12,7 +12,7 @@ I even tweet interesting things at [@devarsh1997].
 
 
 
-[Quora]:www.quora.com/Devarsh-Ruparelia
+[Quora]:http://www.quora.com/Devarsh-Ruparelia
 [@devarsh1997]:http://twitter.com/devarsh1997
 
 
