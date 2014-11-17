@@ -27,7 +27,9 @@ Alfred Marshall made a distinction between internal and external economies of sc
  is sometimes more economical to produce larger amount of chemicals in a chemical industry and there is also a law known as Square-Cube Law(click link for more details) which has a direct effect on the capital cost of such things as buildings, factories, pipelines, ships and airplanes.Lastly, economies of scale also impact the golablised world therefore many people even protest outside WTO meetings against having economies of scale as advent of transnational corporations affect the economies and business environments in developing nations negatively.Thus they matter a lot,
  
 
-#####***If you like it please share it.***
+#####***If you like it please [share and comment] it.***
+
+[share and comment]:http://devarsh1997.github.io/economics/2014/11/17/on-economies-and-diseconomies-of-scale
  
  
 
