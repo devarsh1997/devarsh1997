@@ -27,6 +27,7 @@
 
       <div class="container content">
         {{ content }}
+        {% include comments.html %}
       </div>
     </div>
 
@@ -49,7 +50,7 @@
         }, false);
       })(document);
     </script>
-       {% include comments.html %}
+       
        
   </body>
 </html>
