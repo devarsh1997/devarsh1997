@@ -23,7 +23,7 @@ Alfred Marshall made a distinction between internal and external economies of sc
  Diseconomies of Scale could stem from inefficient labor, over-hiring or worsening transportation networks (external DS). Furthermore, as a company's scope increases, it may have to distribute its goods and services in progressively more dispersed areas. This can actually increase average costs resulting in diseconomies of scale.
  
 ##Why do they matter?
- First foremost because it is a Barrier of Entry to the market for the start-ups.Secondly it also has a physical and engineering basis.For example it
+ First foremost because Economies of scale is a Barrier of Entry to the market for the start-ups.Secondly it also has a physical and engineering basis.For example it
  is sometimes more economical to produce larger amount of chemicals in a chemical industry and there is also a law known as Square-Cube Law(click link for more details) which has a direct effect on the capital cost of such things as buildings, factories, pipelines, ships and airplanes.Lastly, economies of scale also impact the golablised world therefore many people even protest outside WTO meetings against having economies of scale as advent of transnational corporations affect the economies and business environments in developing nations negatively.Thus they matter a lot,
  
 
