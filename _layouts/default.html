@@ -30,6 +30,16 @@
         {% include comments.html %}
       </div>
     </div>
+    <div>
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+</div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
