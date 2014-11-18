@@ -21,6 +21,18 @@ title: Home
 </ul>
 </div>
 
+{% if post.content contains '<!--more-->' %}
+	
+	{{ post.content | split:'<!--more-->' | first }}
+	
+	<p><a href="{{ post.url }}">Continue reading</a></p>
+
+{% else %}
+
+	{{ post.content }}
+	
+{% endif %}
+
 
 
 <div class="pagination">
