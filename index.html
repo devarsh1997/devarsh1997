@@ -16,12 +16,7 @@ title: Home
 
     {{ post.content }}
   </div>
-  {% endfor %}
-  
-</ul>
-</div>
-
-{% if post.content contains '<!--more-->' %}
+ {% if post.content contains '<!--more-->' %}
 	
 	{{ post.content | split:'<!--more-->' | first }}
 	
@@ -32,6 +27,11 @@ title: Home
 	{{ post.content }}
 	
 {% endif %}
+
+  
+</ul>
+</div>
+
 
 
 
