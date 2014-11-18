@@ -30,3 +30,5 @@ version:             1.0.0
 #comments:
 comments:  True
 
+excerpt_separator: "<!-- more -->"
+
