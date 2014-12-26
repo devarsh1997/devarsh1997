@@ -6,8 +6,6 @@ permalink: economics/2014/11/17/on-economies-and-diseconomies-of-scale
 comments: True
 ---
 
-#On Economies And Disceconomies of Scale
-
 ##Economies of Scale
 Adam Smith in landmark book ***Wealth of Nations*** identified the di-vision of labor and specialization as the two key means to achieve a larger return on production.Through these two techniques, employees would not only be able to concentrate on a specific task, but with time, improve the skills necessary to  perform their jobs. The tasks could then be performed better and faster. Hence, through such efficiency, time and money could be saved while production levels increased.
 
