@@ -2,7 +2,7 @@
 layout: post
 title: And the Job of the Year 2014 award goes to ... Data Scientist! 
 category: STEM
-permalink: stem/2014/12/26/job-of-the-year-2014-data-scientist
+permalink: ./stem/2014/12/26/job-of-the-year-2014-data-scientist
 comments: True
 ---
 Are you good at doing Math? Like,really good at it? Know how to code in Python and R and have a really deep knowledge,understanding of industry?
