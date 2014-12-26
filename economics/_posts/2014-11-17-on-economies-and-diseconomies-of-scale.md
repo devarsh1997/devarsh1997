@@ -2,7 +2,7 @@
 layout: post
 title: On Economies And Diseconomies of Scale 
 category: Economics
-permalink: economics/2014/11/17/on-economies-and-diseconomies-of-scale
+permalink: /economics/2014/11/17/on-economies-and-diseconomies-of-scale
 comments: True
 ---
 
