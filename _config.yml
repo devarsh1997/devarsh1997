@@ -13,7 +13,7 @@ title:               Devarsh Ruparelia
 tagline:             'Blogs on STEM|Economics|Geopolitics'
 description:         'Welcome to my blog.I Ask/Answer a lot on Quora.'
 url:                 http://devarsh1997.github.io
-baseurl:             /
+baseurl:             
 paginate:            5
 
 # About/contact
