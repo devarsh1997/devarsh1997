@@ -7,7 +7,7 @@ This is the code of my personal blog. It uses Lanyon theme.
 
 **Devarsh Ruparelia**
 - <https://github.com/devarsh1997>
-- <https://twitter.com/devarsh>
+- <https://twitter.com/devarsh1997>
 
 
 ## License
